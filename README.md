@@ -1,5 +1,5 @@
 # Amsterdam_AirBnB_Analysis
-Data analysis of Amsterdam's AirBnb listings from 2019 looking for insights into rental properties using Exploratory, Regression, Cluster, and Time-Series Analysis in Python.
+Data analysis of Amsterdam's AirBnb listings from 2018 looking for insights into rental properties using Exploratory, Regression, Cluster, and Time-Series Analysis in Python.
 
 Data can be found [here](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam) 
 
