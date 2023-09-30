@@ -6,7 +6,7 @@ Data can be found [here](https://www.kaggle.com/datasets/erikbruin/airbnb-amster
 Tableau Presentation can be found [here](https://public.tableau.com/shared/QKXWCMHWT?:display_count=n&:origin=viz_share_link)
 
 # Objective
-Seek insight into the rental market in Amsterdam during 2019.
+Seek insight into factors that contributed to availability in Amsterdam's rental property market during 2019.
 
 # Folders
 Project Management: Project Brief
